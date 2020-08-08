@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/photo-lab/static/css/main.0107a182.chunk.css",
+    "main.js": "/photo-lab/static/js/main.18ac882b.chunk.js",
+    "main.js.map": "/photo-lab/static/js/main.18ac882b.chunk.js.map",
+    "runtime-main.js": "/photo-lab/static/js/runtime-main.44b5287b.js",
+    "runtime-main.js.map": "/photo-lab/static/js/runtime-main.44b5287b.js.map",
+    "static/js/2.30715cd4.chunk.js": "/photo-lab/static/js/2.30715cd4.chunk.js",
+    "static/js/2.30715cd4.chunk.js.map": "/photo-lab/static/js/2.30715cd4.chunk.js.map",
+    "index.html": "/photo-lab/index.html",
+    "precache-manifest.ee48c8bdd0e7cef26a8378331a1eb05e.js": "/photo-lab/precache-manifest.ee48c8bdd0e7cef26a8378331a1eb05e.js",
+    "service-worker.js": "/photo-lab/service-worker.js",
+    "static/css/main.0107a182.chunk.css.map": "/photo-lab/static/css/main.0107a182.chunk.css.map",
+    "static/js/2.30715cd4.chunk.js.LICENSE.txt": "/photo-lab/static/js/2.30715cd4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.44b5287b.js",
+    "static/js/2.30715cd4.chunk.js",
+    "static/css/main.0107a182.chunk.css",
+    "static/js/main.18ac882b.chunk.js"
+  ]
+}
